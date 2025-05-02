@@ -18,9 +18,9 @@ This project is a Wi-Fi security assessment conducted using tools like **Nmap**,
 - Regularly audit connected devices
 - Use VPN on public networks
 
-## ?? Limitations
+## Limitations
 Aircrack-ng testing was skipped due to lack of USB Wi-Fi adapter with monitor mode.
 
 ---
 
-?? Project completed as part of my internship at FUTURE INTERNS.
+Project completed as part of my internship at FUTURE INTERNS.
